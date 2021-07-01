@@ -1,0 +1,115 @@
+[[DirectQhullHelper]]
+arch = "aarch64"
+git-tree-sha1 = "6bd945a7b24d37e1f3943855dc48854e970b0585"
+libc = "glibc"
+os = "linux"
+
+    [[DirectQhullHelper.download]]
+    sha256 = "09899ab0a503212edd36ea3105695a7cf67e9f2a642d42a811061c1fef20f197"
+    url = "https://github.com/JuliaBinaryWrappers/DirectQhullHelper_jll.jl/releases/download/DirectQhullHelper-v0.1.0+0/DirectQhullHelper.v0.1.0.aarch64-linux-gnu.tar.gz"
+[[DirectQhullHelper]]
+arch = "aarch64"
+git-tree-sha1 = "c28c4e16937383119d419ab5202cf9ad725b1417"
+libc = "musl"
+os = "linux"
+
+    [[DirectQhullHelper.download]]
+    sha256 = "cd9ea440a9ced366d936c062b3e3cfd21a07b0508950a1c2cd840329f722023d"
+    url = "https://github.com/JuliaBinaryWrappers/DirectQhullHelper_jll.jl/releases/download/DirectQhullHelper-v0.1.0+0/DirectQhullHelper.v0.1.0.aarch64-linux-musl.tar.gz"
+[[DirectQhullHelper]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "33c385a8cfb1e7f566268cfd477a23a1049c72db"
+libc = "glibc"
+os = "linux"
+
+    [[DirectQhullHelper.download]]
+    sha256 = "0c9b9f29ac5ae94bbe81a9c80377613ee8ac748ea3960494d23463bd4846cfdc"
+    url = "https://github.com/JuliaBinaryWrappers/DirectQhullHelper_jll.jl/releases/download/DirectQhullHelper-v0.1.0+0/DirectQhullHelper.v0.1.0.armv7l-linux-gnueabihf.tar.gz"
+[[DirectQhullHelper]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "0914907173e306216cc6eadf6d2bc4cd740ba9b9"
+libc = "musl"
+os = "linux"
+
+    [[DirectQhullHelper.download]]
+    sha256 = "79d8f3be33deb01c394c0cf5b703165d5b9818c4380378ef18d9be4fc4757028"
+    url = "https://github.com/JuliaBinaryWrappers/DirectQhullHelper_jll.jl/releases/download/DirectQhullHelper-v0.1.0+0/DirectQhullHelper.v0.1.0.armv7l-linux-musleabihf.tar.gz"
+[[DirectQhullHelper]]
+arch = "i686"
+git-tree-sha1 = "495aae6058081d6e4f61d555466f804685418659"
+libc = "glibc"
+os = "linux"
+
+    [[DirectQhullHelper.download]]
+    sha256 = "6f6b969cb4fbe884324758693b03350ac2d657c71bc00f2890a62d456b41d220"
+    url = "https://github.com/JuliaBinaryWrappers/DirectQhullHelper_jll.jl/releases/download/DirectQhullHelper-v0.1.0+0/DirectQhullHelper.v0.1.0.i686-linux-gnu.tar.gz"
+[[DirectQhullHelper]]
+arch = "i686"
+git-tree-sha1 = "41d4cb25b2a8511392252e64900255c780059dae"
+libc = "musl"
+os = "linux"
+
+    [[DirectQhullHelper.download]]
+    sha256 = "49c623d3242eebceddb874eea8446354e41ebdc63261a993a5a455b43995cab4"
+    url = "https://github.com/JuliaBinaryWrappers/DirectQhullHelper_jll.jl/releases/download/DirectQhullHelper-v0.1.0+0/DirectQhullHelper.v0.1.0.i686-linux-musl.tar.gz"
+[[DirectQhullHelper]]
+arch = "i686"
+git-tree-sha1 = "505a5be9edade3df1fdbd62db609367416aedea2"
+os = "windows"
+
+    [[DirectQhullHelper.download]]
+    sha256 = "ff497e60d8a38ec3d901254998d4b0bc52fd91d40c3ca5df6829955e84cba70c"
+    url = "https://github.com/JuliaBinaryWrappers/DirectQhullHelper_jll.jl/releases/download/DirectQhullHelper-v0.1.0+0/DirectQhullHelper.v0.1.0.i686-w64-mingw32.tar.gz"
+[[DirectQhullHelper]]
+arch = "powerpc64le"
+git-tree-sha1 = "082623a5aefd1a968f36c3c730a35bf02f288a74"
+libc = "glibc"
+os = "linux"
+
+    [[DirectQhullHelper.download]]
+    sha256 = "f23caec4a35218e4ac3e4cfb09e0b018580d30b188f1580362e49bdd044e0c8f"
+    url = "https://github.com/JuliaBinaryWrappers/DirectQhullHelper_jll.jl/releases/download/DirectQhullHelper-v0.1.0+0/DirectQhullHelper.v0.1.0.powerpc64le-linux-gnu.tar.gz"
+[[DirectQhullHelper]]
+arch = "x86_64"
+git-tree-sha1 = "28b3d3a9df6477d21eda42e388cf98ff179c6a6d"
+os = "macos"
+
+    [[DirectQhullHelper.download]]
+    sha256 = "dcfec3c2852214eea59185db20107aabb4282b4537e589ebceebf07c21b61c80"
+    url = "https://github.com/JuliaBinaryWrappers/DirectQhullHelper_jll.jl/releases/download/DirectQhullHelper-v0.1.0+0/DirectQhullHelper.v0.1.0.x86_64-apple-darwin.tar.gz"
+[[DirectQhullHelper]]
+arch = "x86_64"
+git-tree-sha1 = "ada4e9077520a99364716a41cd7d0ab2e35924a2"
+libc = "glibc"
+os = "linux"
+
+    [[DirectQhullHelper.download]]
+    sha256 = "b324cd55adbcc4cb2c9d5efa2035fbd2aac0b0964698040f8a1df515feb4b8d5"
+    url = "https://github.com/JuliaBinaryWrappers/DirectQhullHelper_jll.jl/releases/download/DirectQhullHelper-v0.1.0+0/DirectQhullHelper.v0.1.0.x86_64-linux-gnu.tar.gz"
+[[DirectQhullHelper]]
+arch = "x86_64"
+git-tree-sha1 = "831d09944062bf50b23d7bf01fe62330698aea2a"
+libc = "musl"
+os = "linux"
+
+    [[DirectQhullHelper.download]]
+    sha256 = "99447683ffa69e684cd087acaf237e17f02e38bc3cd640ea3dc2bb3c3ec39fe0"
+    url = "https://github.com/JuliaBinaryWrappers/DirectQhullHelper_jll.jl/releases/download/DirectQhullHelper-v0.1.0+0/DirectQhullHelper.v0.1.0.x86_64-linux-musl.tar.gz"
+[[DirectQhullHelper]]
+arch = "x86_64"
+git-tree-sha1 = "4670ef1eaa047bb8bfb6b8ef9f02240f061e13a0"
+os = "freebsd"
+
+    [[DirectQhullHelper.download]]
+    sha256 = "dde303f0854094bb9622c23c0ead717b9989b715add11ffac125003b1a230016"
+    url = "https://github.com/JuliaBinaryWrappers/DirectQhullHelper_jll.jl/releases/download/DirectQhullHelper-v0.1.0+0/DirectQhullHelper.v0.1.0.x86_64-unknown-freebsd.tar.gz"
+[[DirectQhullHelper]]
+arch = "x86_64"
+git-tree-sha1 = "1ebaa1d6cc3bd7924402348fc3ac59a492c1a855"
+os = "windows"
+
+    [[DirectQhullHelper.download]]
+    sha256 = "695303e14cb0933379299f00bbe9f210fd68192164085c6d5b214cc4af9228f4"
+    url = "https://github.com/JuliaBinaryWrappers/DirectQhullHelper_jll.jl/releases/download/DirectQhullHelper-v0.1.0+0/DirectQhullHelper.v0.1.0.x86_64-w64-mingw32.tar.gz"
